@@ -112,6 +112,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Pl/Sql tidy](http://psti.equinoxbase.com/) - Program to tidy, beautify or format Pl/Sql code in a batch file or Dos prompt.
 * [Poor Man's T-SQL Formatter](http://architectshack.com/PoorMansTSqlFormatter.ashx) - .Net 2.0 library with demo UI, command-line bulk formatter, SSMS/Visual Studio add-in, notepad++ plugin, winmerge plugin, and web service for reformatting and coloring T-SQL code to the user's preferences.
+* [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python.  Can be run standalone or from Python; has a variety of options.  Does not (yet?) support Oracle-specific keywords.
+
 
 <a name="python" />
 #### Python
